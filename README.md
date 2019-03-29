@@ -1,8 +1,8 @@
 # S.purp_MeDIP
 scripts and files for JEMBE
 
-# These scripts uses DESeq2 to analyze methylation counts of genes and promoters (1kb above gene region)
-# These scripts also outputs files for GOMWU analysis (see https://github.com/z0on/GO_MWU) and DAPC
+# These scripts use DESeq2 to analyze methylation counts of genes and promoters (1kb above gene region)
+# These scripts also output files for GOMWU analysis (see https://github.com/z0on/GO_MWU) and DAPC
 # Strader et al 2019, Journal of Experimental Marine Biology and Ecology
 # Parental environments alter DNA methylation in offspring of the purple sea urchin, Strongylocentrotus purpuratus
 
